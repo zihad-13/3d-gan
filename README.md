@@ -10,3 +10,6 @@ with chair object.
 ## Inference
 
 provide the path of the generator model and run ```inference.py```
+
+### Sample output
+![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/38187481/220277291-77749f85-12f5-4844-8614-124667041022.png)
